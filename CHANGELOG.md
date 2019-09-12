@@ -1,3 +1,6 @@
+## 2.4.21 (September 12, 2019)
+* Return server object on MiaJs.start()
+
 ## 2.4.20 (September 11, 2019)
 * Added setting of custom server options for HTTP & HTTPS server
 
